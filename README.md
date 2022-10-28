@@ -1,5 +1,5 @@
-# SQL Query database with using Python
-- Input -> query_param - any optional data you need to add to your query from the user 
+# SQL-Query database using Python
+- Input -> ```query_param``` - any optional data you need to add to your query from the user 
 - Output -> local txt file with query results
 
 ## How to run the script:
